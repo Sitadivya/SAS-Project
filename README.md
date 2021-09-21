@@ -1,2 +1,18 @@
 # SAS-Project
 Patient Profiles 
+![Output3](https://user-images.githubusercontent.com/89739184/134211397-133a838a-390c-4d03-82af-2d2dbcfed80a.PNG)
+![Output4](https://user-images.githubusercontent.com/89739184/134211403-bcd236e7-c972-4363-ad78-3741710d70d3.PNG)
+![Output5](https://user-images.githubusercontent.com/89739184/134211404-11fb58af-602b-4ff9-af81-95b40f4f4c55.PNG)
+![Output6](https://user-images.githubusercontent.com/89739184/134211406-acdcd734-9c3e-4650-80f8-6bf42ee6039c.PNG)
+![Output7](https://user-images.githubusercontent.com/89739184/134211411-a3f42eb1-3c65-4885-8f06-678ba0c02d1e.PNG)
+![program1](https://user-images.githubusercontent.com/89739184/134211412-ce33e157-4aba-4b32-b5b5-166235f9458e.PNG)
+![Program3](https://user-images.githubusercontent.com/89739184/134211414-9c98636e-01e1-4c56-a3f0-45472d51d409.PNG)
+![Program4](https://user-images.githubusercontent.com/89739184/134211415-58adf70f-83c8-4509-b0b1-490579f4f37f.PNG)
+![Program5](https://user-images.githubusercontent.com/89739184/134211416-bb0f23ac-703c-4717-ae92-b49e918ab5fc.PNG)
+![Program6](https://user-images.githubusercontent.com/89739184/134211418-29832ed5-4462-45b0-a5e8-854945b41782.PNG)
+![Program7](https://user-images.githubusercontent.com/89739184/134211421-ee704382-e644-47b2-81b3-4fb285683079.PNG)
+![Program8](https://user-images.githubusercontent.com/89739184/134211423-154d0a4a-7914-4219-825a-2afeb55a384e.PNG)
+![Program9](https://user-images.githubusercontent.com/89739184/134211425-97050513-de49-48e8-bad7-f076945fdfe8.PNG)
+![Program10](https://user-images.githubusercontent.com/89739184/134211426-8adde88e-3c9b-4d16-8481-63a23d562418.PNG)
+![Output1](https://user-images.githubusercontent.com/89739184/134211427-1fe18af5-e85c-4175-a4cb-da202166f2a2.PNG)
+![Output2](https://user-images.githubusercontent.com/89739184/134211429-6830e910-12c2-4d1b-be8f-beff8f04cfd1.PNG)
